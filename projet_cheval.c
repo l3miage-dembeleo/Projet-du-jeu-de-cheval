@@ -56,6 +56,7 @@ void enfantParleAuPere(int* tab_pipes_pere_fils[N],int *tab_pipes[N],int* p1){
 	
 
 }
+
 /**************************************************LA FONCTION PRINCIPALE*********************************************/
 int main(){
      
